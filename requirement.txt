@@ -3,3 +3,4 @@ Email
 Type option
 color
 vibrant
+new
